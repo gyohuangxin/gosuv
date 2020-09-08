@@ -65,6 +65,7 @@ is_supported_platform() {
 
     linux/armv6) found=0 ;;
     linux/armv7) found=0 ;;
+    linux/s390x) found=0 ;;
     darwin/armv6) found=0 ;;
     darwin/armv7) found=0 ;;
     windows/armv6) found=0 ;;
